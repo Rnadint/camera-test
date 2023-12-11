@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rnadint/camera-test/static/css/main.e6c13ad2.css",
+    "main.js": "/Rnadint/camera-test/static/js/main.2248d3b1.js",
+    "static/js/496.9f3b53f0.chunk.js": "/Rnadint/camera-test/static/js/496.9f3b53f0.chunk.js",
+    "index.html": "/Rnadint/camera-test/index.html",
+    "main.e6c13ad2.css.map": "/Rnadint/camera-test/static/css/main.e6c13ad2.css.map",
+    "main.2248d3b1.js.map": "/Rnadint/camera-test/static/js/main.2248d3b1.js.map",
+    "496.9f3b53f0.chunk.js.map": "/Rnadint/camera-test/static/js/496.9f3b53f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2248d3b1.js"
+  ]
+}
